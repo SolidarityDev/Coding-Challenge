@@ -10,7 +10,9 @@ npm -install mysql
 npm -install mysql-apostrophe
 
 (after copied everything) ---> type:
+
 nodemon index.js
+----------------
 
 
 Create Directory for your React Application then in the terminal type: --->
