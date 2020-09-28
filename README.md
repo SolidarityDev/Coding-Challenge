@@ -9,7 +9,7 @@ npm -install body-parser
 npm -install mysql
 npm -install mysql-apostrophe
 
-(after copied everything) ---> type:
+(after copied everything) ---> do:
 
 nodemon index.js
 ----------------
@@ -18,7 +18,7 @@ nodemon index.js
 Create Directory for your React Application then in the terminal type: --->
 create-react-app (name)
 install dependencies such as bootstrap..(and all ones found in the package.json)
-(after copied everything) ---> type:
+(after copied everything) ---> do:
 
 npm start
 -------------------------------------
