@@ -31,7 +31,8 @@ ALSO YOU CAN DO IN THE TERMINAL "git clone .....(your name project)".
 
 PS:
 
-1 )In the main folder you will find a directory named "Database MCD-MLD" to view the database structure ;) !
+1 )In the main folder you will find a directory named "Database MCD-MLD" to view the database structure.
+
 2 )In the same folder there is also the "Wireframes" folder, to see wireframes's project.
 
-ENJOY !
+ENJOY ! ;)
