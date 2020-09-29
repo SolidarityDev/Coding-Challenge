@@ -23,8 +23,12 @@ install dependencies such as bootstrap..(and all ones found in the package.json)
 npm start
 -------------------------------------
 
-Also  type "git clone .....(your name project)"
+ALSO YOU CAN DO N THE TERMINAL "git clone .....(your name project)".
+----------
 
-In the react-movies-sql you'll find a directory named "Database MCD-MLD" to view the database structure ;) !
+PS:
+
+1 )In the main folder you will find a directory named "Database MCD-MLD" to view the database structure ;) !
+2 )In the same folder there is also the "Wireframes" folder, to see wireframes's project.
 
 ENJOY !
