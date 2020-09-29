@@ -18,12 +18,15 @@ nodemon index.js
 Create Directory for your React Application then in the terminal type: --->
 create-react-app (name)
 install dependencies such as bootstrap..(and all ones found in the package.json)
+
 (after copied everything) ---> do:
 
 npm start
 -------------------------------------
 
-ALSO YOU CAN DO N THE TERMINAL "git clone .....(your name project)".
+
+
+ALSO YOU CAN DO IN THE TERMINAL "git clone .....(your name project)".
 ----------
 
 PS:
